@@ -1,3 +1,17 @@
+Suspend active development pending IP clarification
+
+Work on this project is suspended during internship period 
+pending written clarification from employer regarding 
+intellectual property ownership and scope of internship duties.
+
+Development will resume once:
+- Written confirmation is received that this project is outside 
+  the scope of internship IP assignment
+- Or employment relationship concludes
+
+Last active development: 30/12/2026
+Resume date: TBD
+
 # Icebreaker MCP Tools
 
 A modular Model Context Protocol (MCP) server toolkit for cybersecurity research and knowledge retrieval. This project includes MCP servers for web search via SearXNG and local knowledge base queries powered by RAG.
